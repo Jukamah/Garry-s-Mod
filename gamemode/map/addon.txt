@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "rp_denon"
+	"author_name" "Author Name"
+	"info" " { 	"description": "Description", 	"type": "map", 	"tags":  	[ 		"roleplay", 		"realism" 	] }"
+}

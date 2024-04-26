@@ -1,0 +1,16 @@
+"AddonInfo"
+{
+	
+	"name"				"Thirdperson"
+	
+	"version"			"1.0"
+	
+	"author_name"			"Valaskair"
+	
+	"author_email"			"valaskair.vp@gmail.com"
+	
+	"author_url"			"http://www.steamcommunity.com/id/Valaskair"
+	
+	"info"				"!thirdperson to switch view. (Thirdperson Chat Command)"
+
+}

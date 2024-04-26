@@ -1,0 +1,8 @@
+DarkRP.createEntity("Donation Box", {
+	ent = "val_hdb",
+	model = "models/props/cs_office/Cardboard_box01.mdl",
+	price = 0,
+	max = 1,
+	cmd = "buydonatebox",
+	allowed = { TEAM_HOBO }
+})

@@ -1,0 +1,271 @@
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Users\Valaskair\Desktop\BG\map\maps\decomp\rp_denon_d.vmf
+Can't find surfaceprop metal for material METAL/METALHULL013A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR008A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR013A, using default
+Can't find surfaceprop metal for material METAL/METALHULL003A, using default
+material "metal/bunker_metalwall01b" not found.
+Material not found!: METAL/BUNKER_METALWALL01B
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL004B, using default
+material "metal/forest_metal_02c" not found.
+Material not found!: METAL/FOREST_METAL_02C
+Can't find surfaceprop metal for material METAL/METALPIPE001A, using default
+Can't find surfaceprop rubber for material PROPS/RUBBERFLOOR004A, using default
+material "custom/metal_dull" not found.
+Material not found!: CUSTOM/METAL_DULL
+material "metal/bunker_metalwall01a" not found.
+Material not found!: METAL/BUNKER_METALWALL01A
+Can't find surfaceprop metal for material METAL/LIGHTHOUSE_PLATFORM, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL032B, using default
+material "maps/rp_denon_v3/concrete/blendbunk_conc01_wvt_patch" not found.
+Material not found!: MAPS/RP_DENON_V3/CONCRETE/BLENDBUNK_CONC01_WVT_PATCH
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL074A, using default
+material "custom/metal_floor" not found.
+Material not found!: CUSTOM/METAL_FLOOR
+Can't find surfaceprop metal for material METAL/METALCOMBINE001, using default
+Can't find surfaceprop metal for material METAL/METALWALL077A, using default
+Can't find surfaceprop glass for material GLASS/COMBINEGLASS001A, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL072C, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL072A, using default
+material "custom/metal_wall3" not found.
+Material not found!: CUSTOM/METAL_WALL3
+material "custom/metal_imperial" not found.
+Material not found!: CUSTOM/METAL_IMPERIAL
+Can't find surfaceprop metal for material METAL/METALWALL076A, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL076A, using default
+material "custom/metal_wall" not found.
+Material not found!: CUSTOM/METAL_WALL
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL077A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR038C, using default
+Can't find surfaceprop metal for material METAL/METALFLOOR005A, using default
+Can't find surfaceprop metal for material METAL/METALHULL005A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR059A, using default
+Can't find surfaceprop metal for material METAL/METALWALL021A, using default
+material "metal/citadel_metalwall077a_cheap" not found.
+Material not found!: METAL/CITADEL_METALWALL077A_CHEAP
+Can't find surfaceprop glass for material LIGHTS/WHITE001, using default
+Can't find surfaceprop metal for material METAL/METALCOMBINE002, using default
+Can't find surfaceprop metal for material DEV/DEV_LOWERWALLMETAL01A, using default
+Can't find surfaceprop metal for material METAL/METALFLOOR003A, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERCEILING008A, using default
+material "custom/keypad" not found.
+Material not found!: CUSTOM/KEYPAD
+material "custom/metal_wall2" not found.
+Material not found!: CUSTOM/METAL_WALL2
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL059F, using default
+Can't find surfaceprop tile for material TILE/TILEFLOOR021A, using default
+material "tile/tilefloor_bm_02a" not found.
+Material not found!: TILE/TILEFLOOR_BM_02A
+Can't find surfaceprop metal for material METAL/METALWALL056A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR026A, using default
+material "custom/metal_wall4" not found.
+Material not found!: CUSTOM/METAL_WALL4
+Can't find surfaceprop metal for material METAL/METALWALL074C, using default
+Can't find surfaceprop metal for material METAL/METALWALL074A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETECEILING004A, using default
+Can't find surfaceprop metal for material METAL/METALWALL035A, using default
+material "custom/metal_imperial_2" not found.
+Material not found!: CUSTOM/METAL_IMPERIAL_2
+Can't find surfaceprop metal for material METAL/CITADEL_TILEFLOOR016A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETECEILING001A, using default
+Can't find surfaceprop metal for material METAL/METALPIPE007A, using default
+material "metal/metalwall_bm_01a" not found.
+Material not found!: METAL/METALWALL_BM_01A
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL060A, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL101B, using default
+Can't find surfaceprop metal for material METAL/METALDOOR032C, using default
+Can't find surfaceprop metal for material METAL/METALWALL085A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR032B, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL063A, using default
+material "custom/security_door" not found.
+Material not found!: CUSTOM/SECURITY_DOOR
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL078A, using default
+Can't find surfaceprop metal for material METAL/METALCEILING005A, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE011A, using default
+material "custom/custom_metal" not found.
+Material not found!: CUSTOM/CUSTOM_METAL
+material "custom/imperial_wall_grey" not found.
+Material not found!: CUSTOM/IMPERIAL_WALL_GREY
+material "lights/blue001" not found.
+Material not found!: LIGHTS/BLUE001
+material "custom/imperial_wall2" not found.
+Material not found!: CUSTOM/IMPERIAL_WALL2
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL063A_CHEAP, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW070C, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL101A, using default
+Can't find surfaceprop tile for material TILE/TILEFLOOR020A, using default
+Can't find surfaceprop rubber for material VEHICLE/RUBBERTRAINFLOOR002A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSCLIP, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL002C, using default
+Can't find surfaceprop carpet for material PROPS/CARPETFLOOR008A, using default
+material "glass/combinepodglass001a" not found.
+Material not found!: GLASS/COMBINEPODGLASS001A
+material "tile/tilewall009e" not found.
+Material not found!: TILE/TILEWALL009E
+Can't find surfaceprop tile for material TILE/TILEFLOOR011A, using default
+Can't find surfaceprop paper for material PROPS/ACOUSTICCEILING002A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL062A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR011A, using default
+Can't find surfaceprop metal for material VEHICLE/METALTRAIN001A, using default
+Can't find surfaceprop metal for material VEHICLE/METALTRAIN001D, using default
+Can't find surfaceprop tile for material TILE/TILEWALL009B, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETESTAIR002A, using default
+material "maps/rp_denon_v3/dev/dev_blendmeasure_wvt_patch" not found.
+Material not found!: MAPS/RP_DENON_V3/DEV/DEV_BLENDMEASURE_WVT_PATCH
+Can't find surfaceprop metal for material METAL/METALFLOOR008A, using default
+material "lights/red001" not found.
+Material not found!: LIGHTS/RED001
+Can't find surfaceprop metalgrate for material METAL/METALGRATE013B, using default
+Can't find surfaceprop carpet for material PROPS/CARPETFLOOR001A, using default
+material "metal/forest_metal01f" not found.
+Material not found!: METAL/FOREST_METAL01F
+Can't find surfaceprop metal for material METAL/METALWALL021F_CHEAP, using default
+material "metal/bunker_metalwall02a" not found.
+Material not found!: METAL/BUNKER_METALWALL02A
+Can't find surfaceprop metalpanel for material METAL/METALFLOOR010A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL002B, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL002A, using default
+Can't find surfaceprop metal for material METAL/METALWALL030A, using default
+Can't find surfaceprop metal for material METAL/METALWALL005B, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL065C, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL022A, using default
+Can't find surfaceprop wood for material WOOD/WOODSTAIR002C, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERCEILING002B, using default
+Can't find surfaceprop carpet for material PROPS/CARPETFLOOR006A, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERCEILING005A, using default
+Can't find surfaceprop metal for material DEV/DEV_LOWERWALLMETAL01C, using default
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP002B, using default
+Can't find surfaceprop default for material HALFLIFE/BLACK, using default
+Can't find surfaceprop dirt for material NATURE/DIRTFLOOR001A, using default
+Can't find surfaceprop metal for material METAL/METALWALL060A, using default
+Can't find surfaceprop metal for material METAL/METALFLOOR007A, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW001B, using default
+Can't find surfaceprop metal for material METAL/METALPIPE005A, using default
+Can't find surfaceprop chainlink for material METAL/METALFENCE007A, using default
+Can't find surfaceprop metal for material METAL/METALFLOOR001A, using default
+Can't find surfaceprop metal for material METAL/METALWALL068A, using default
+material "custom/twi'lek" not found.
+Material not found!: CUSTOM/TWI'LEK
+Can't find surfaceprop metal for material METAL/METALTRUSS004A, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE014A, using default
+material "custom/twi'lek3" not found.
+Material not found!: CUSTOM/TWI'LEK3
+material "custom/dancers" not found.
+Material not found!: CUSTOM/DANCERS
+Can't find surfaceprop metal for material METAL/METALTRUSS012A, using default
+material "custom/togruta" not found.
+Material not found!: CUSTOM/TOGRUTA
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003A, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE013A2, using default
+Can't find surfaceprop slime for material NATURE/TOXICSLIME002A, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOWBREAK070A, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW018A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL004A, using default
+material "custom/metal_door" not found.
+Material not found!: CUSTOM/METAL_DOOR
+Can't find surfaceprop metal for material DEV/DEV_LOWERMETALDOOR02A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL036A, using default
+Can't find surfaceprop metal for material DEV/DEV_LOWERMETALDOOR01, using default
+Can't find surfaceprop metalpanel for material PROPS/DOORBUTTON002A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR006A, using default
+material "custom/bulkhead" not found.
+Material not found!: CUSTOM/BULKHEAD
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL072B, using default
+material "custom/imperial_bulkhead" not found.
+Material not found!: CUSTOM/IMPERIAL_BULKHEAD
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL090A, using default
+material "metal/metalbeam001a" not found.
+Material not found!: METAL/METALBEAM001A
+Can't find surfaceprop metalpanel for material PROPS/HAZARDSTRIP001A, using default
+Can't find surfaceprop glass for material EFFECTS/COMBINEDISPLAY002A, using default
+Can't find surfaceprop metal for material METAL/METALPIPE003A, using default
+material "metal/citadel_metalwall063a_cheap_nofog" not found.
+Material not found!: METAL/CITADEL_METALWALL063A_CHEAP_NOFOG
+Can't find surfaceprop metalgrate for material METAL/METALGRATE017A, using default
+Can't find surfaceprop tile for material TILE/TILEFLOOR001A, using default
+material "custom/metal_tile" not found.
+Material not found!: CUSTOM/METAL_TILE
+Can't find surfaceprop metal for material METAL/METALWALL069A, using default
+Can't find surfaceprop metal for material METAL/METALWALL033A, using default
+material "metal/forest_metal01h" not found.
+Material not found!: METAL/FOREST_METAL01H
+Can't find surfaceprop metal for material METAL/METALPIPE008A, using default
+material "custom/twi'lek5" not found.
+Material not found!: CUSTOM/TWI'LEK5
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL072B_CHEAP, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETECEILING003A, using default
+Can't find surfaceprop metal for material METAL/METALVENT004A, using default
+material "custom/bar" not found.
+Material not found!: CUSTOM/BAR
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL091A_CHEAP, using default
+Can't find surfaceprop metal for material METAL/METALPIPE010A, using default
+material "custom/shop" not found.
+Material not found!: CUSTOM/SHOP
+material "custom/twi'lek4" not found.
+Material not found!: CUSTOM/TWI'LEK4
+Can't find surfaceprop metal for material METAL/METALROOF008A, using default
+material "custom/open" not found.
+Material not found!: CUSTOM/OPEN
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL022C, using default
+Can't find surfaceprop metal for material METAL/METALPIPE009A, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL091A, using default
+Can't find surfaceprop metal for material METAL/METALPIPE006A, using default
+Can't find surfaceprop metal for material METAL/METALPIPE009B, using default
+Can't find surfaceprop plastic for material PROPS/PLASTICCEILING001A, using default
+Can't find surfaceprop concrete for material DEV/DEV_CONCRETEWALL020A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR053A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR061A, using default
+Can't find surfaceprop metal for material METAL/METALWALL061H, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL020A, using default
+Can't find surfaceprop metal for material METAL/METALWALL101B, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL010A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL009A, using default
+material "metal/forest_metal01d" not found.
+Material not found!: METAL/FOREST_METAL01D
+Can't find surfaceprop metal for material METAL/METALVENT003A, using default
+Can't find surfaceprop metal for material DEV/DEV_CORRUGATEDMETAL, using default
+material "custom/twi'lek2" not found.
+Material not found!: CUSTOM/TWI'LEK2
+material "custom/factory" not found.
+Material not found!: CUSTOM/FACTORY
+material "custom/port" not found.
+Material not found!: CUSTOM/PORT
+Can't find surfaceprop metal for material METAL/METALPIPE002A, using default
+Can't find surfaceprop metal for material METAL/METALROOF006A, using default
+material "custom/panel" not found.
+Material not found!: CUSTOM/PANEL
+Can't find surfaceprop tile for material TILE/TILEFLOOR020A_CHEAP, using default
+Can't find surfaceprop tile for material METAL/CITADEL_TILEFLOOR016A_CHEAP, using default
+Can't find surfaceprop metal for material METAL/METALROOF002A, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2310 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+Can't find surfaceprop slime for material maps/rp_denon_d/nature/toxicslime002a_depth_98, using default
+done (5)
+writing C:\Users\Valaskair\Desktop\BG\map\maps\decomp\rp_denon_d.prt...Building visibility clusters...
+done (0)
+material "skybox/mpa30rt" not found.
+Can't load skybox file skybox/mpa30 to build the default cubemap!
+Can't load skybox file skybox/mpa30 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "custom/propaganda_destroyer" not found.
+Can't find surfaceprop metal for material metal/metalwall052b, using default
+material "custom/propaganda_trooper" not found.
+Can't find surfaceprop metal for material metal/metalvent005a, using default
+material "custom/propaganda_trooper2" not found.
+Building Physics collision data...

@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Star Wars RP"
+	"author"	"GlorifiedPig"
+	"menusystem" "1"
+}

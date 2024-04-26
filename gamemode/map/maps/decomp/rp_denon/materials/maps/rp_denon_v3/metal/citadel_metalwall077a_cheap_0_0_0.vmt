@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_METALWALL077A_CHEAP.vmt"
+	"replace"
+	{
+		"LightmappedGeneric_DX9"
+		{
+			"$envmap"		"maps/rp_denon_v3/c0_0_0"
+		}
+	}
+}

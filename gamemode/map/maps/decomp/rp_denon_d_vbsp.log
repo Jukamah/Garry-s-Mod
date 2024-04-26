@@ -1,0 +1,166 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading C:\Users\Valaskair\Desktop\BG\map\maps\decomp\rp_denon_d.vmf
+material "metal/bunker_metalwall01b" not found.
+Material not found!: METAL/BUNKER_METALWALL01B
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/forest_metal_02c" not found.
+Material not found!: METAL/FOREST_METAL_02C
+material "custom/metal_dull" not found.
+Material not found!: CUSTOM/METAL_DULL
+material "metal/bunker_metalwall01a" not found.
+Material not found!: METAL/BUNKER_METALWALL01A
+material "maps/rp_denon_v3/concrete/blendbunk_conc01_wvt_patch" not found.
+Material not found!: MAPS/RP_DENON_V3/CONCRETE/BLENDBUNK_CONC01_WVT_PATCH
+material "custom/metal_floor" not found.
+Material not found!: CUSTOM/METAL_FLOOR
+material "custom/metal_wall3" not found.
+Material not found!: CUSTOM/METAL_WALL3
+material "custom/metal_imperial" not found.
+Material not found!: CUSTOM/METAL_IMPERIAL
+material "custom/metal_wall" not found.
+Material not found!: CUSTOM/METAL_WALL
+material "metal/citadel_metalwall077a_cheap" not found.
+Material not found!: METAL/CITADEL_METALWALL077A_CHEAP
+material "custom/keypad" not found.
+Material not found!: CUSTOM/KEYPAD
+material "custom/metal_wall2" not found.
+Material not found!: CUSTOM/METAL_WALL2
+material "tile/tilefloor_bm_02a" not found.
+Material not found!: TILE/TILEFLOOR_BM_02A
+material "custom/metal_wall4" not found.
+Material not found!: CUSTOM/METAL_WALL4
+material "custom/metal_imperial_2" not found.
+Material not found!: CUSTOM/METAL_IMPERIAL_2
+material "metal/metalwall_bm_01a" not found.
+Material not found!: METAL/METALWALL_BM_01A
+material "custom/security_door" not found.
+Material not found!: CUSTOM/SECURITY_DOOR
+material "custom/custom_metal" not found.
+Material not found!: CUSTOM/CUSTOM_METAL
+material "custom/imperial_wall_grey" not found.
+Material not found!: CUSTOM/IMPERIAL_WALL_GREY
+material "lights/blue001" not found.
+Material not found!: LIGHTS/BLUE001
+material "custom/imperial_wall2" not found.
+Material not found!: CUSTOM/IMPERIAL_WALL2
+material "glass/combinepodglass001a" not found.
+Material not found!: GLASS/COMBINEPODGLASS001A
+material "tile/tilewall009e" not found.
+Material not found!: TILE/TILEWALL009E
+material "maps/rp_denon_v3/dev/dev_blendmeasure_wvt_patch" not found.
+Material not found!: MAPS/RP_DENON_V3/DEV/DEV_BLENDMEASURE_WVT_PATCH
+material "lights/red001" not found.
+Material not found!: LIGHTS/RED001
+material "metal/forest_metal01f" not found.
+Material not found!: METAL/FOREST_METAL01F
+material "metal/bunker_metalwall02a" not found.
+Material not found!: METAL/BUNKER_METALWALL02A
+material "custom/twi'lek" not found.
+Material not found!: CUSTOM/TWI'LEK
+material "custom/twi'lek3" not found.
+Material not found!: CUSTOM/TWI'LEK3
+material "custom/dancers" not found.
+Material not found!: CUSTOM/DANCERS
+material "custom/togruta" not found.
+Material not found!: CUSTOM/TOGRUTA
+material "custom/metal_door" not found.
+Material not found!: CUSTOM/METAL_DOOR
+material "custom/bulkhead" not found.
+Material not found!: CUSTOM/BULKHEAD
+material "custom/imperial_bulkhead" not found.
+Material not found!: CUSTOM/IMPERIAL_BULKHEAD
+material "metal/metalbeam001a" not found.
+Material not found!: METAL/METALBEAM001A
+material "metal/citadel_metalwall063a_cheap_nofog" not found.
+Material not found!: METAL/CITADEL_METALWALL063A_CHEAP_NOFOG
+material "custom/metal_tile" not found.
+Material not found!: CUSTOM/METAL_TILE
+material "metal/forest_metal01h" not found.
+Material not found!: METAL/FOREST_METAL01H
+material "custom/twi'lek5" not found.
+Material not found!: CUSTOM/TWI'LEK5
+material "custom/bar" not found.
+Material not found!: CUSTOM/BAR
+material "custom/shop" not found.
+Material not found!: CUSTOM/SHOP
+material "custom/twi'lek4" not found.
+Material not found!: CUSTOM/TWI'LEK4
+material "custom/open" not found.
+Material not found!: CUSTOM/OPEN
+material "metal/forest_metal01d" not found.
+Material not found!: METAL/FOREST_METAL01D
+material "custom/twi'lek2" not found.
+Material not found!: CUSTOM/TWI'LEK2
+material "custom/factory" not found.
+Material not found!: CUSTOM/FACTORY
+material "custom/port" not found.
+Material not found!: CUSTOM/PORT
+material "custom/panel" not found.
+Material not found!: CUSTOM/PANEL
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2310 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+writing C:\Users\Valaskair\Desktop\BG\map\maps\decomp\rp_denon_d.prt...Building visibility clusters...
+done (0)
+material "skybox/mpa30rt" not found.
+Can't load skybox file skybox/mpa30 to build the default cubemap!
+Can't load skybox file skybox/mpa30 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "custom/propaganda_destroyer" not found.
+material "custom/propaganda_trooper" not found.
+material "custom/propaganda_trooper2" not found.
+Building Physics collision data...
+done (2) (2875804 bytes)
+Error loading studio model "models/props_silo/wall_light.mdl"!
+Error loading studio model "models/props_forest/floodlight.mdl"!
+Error loading studio model "models/props_forest/light_security.mdl"!
+Error loading studio model "models/props_mining/antlion_detector_lights_base.mdl"!
+Error loading studio model "models/props_silo/floodlights_01.mdl"!
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002b.mdl"!
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002c.mdl"!
+Error loading studio model "models/props_forest/table_shed.mdl"!
+Error loading studio model "models/props_combine/corecontrolmonitor.mdl"!
+Error loading studio model "models/props_c17/metalladder005.mdl"!
+Error loading studio model "models/props_silo/signalbox_01.mdl"!
+Error loading studio model "models/props_mining/oiltank01.mdl"!
+Error loading studio model "models/props_silo/light_security.mdl"!
+Error loading studio model "models/props_silo/acunit01.mdl"!
+Error loading studio model "models/props_silo/electricalbox01.mdl"!
+Error loading studio model "models/props_silo/acunit02.mdl"!
+Error loading studio model "models/props_forest/stove01.mdl"!
+Error loading studio model "models/props_silo/electricalbox02.mdl"!
+Error loading studio model "models/props_outland/generator_static01a.mdl"!
+Error loading studio model "models/props_silo/desk_console3.mdl"!
+Error loading studio model "models/props_mining/pipe_goopit01.mdl"!
+Error loading studio model "models/props_silo/processor.mdl"!
+Error loading studio model "models/props_silo/handrail_alley-upperdeck.mdl"!
+Error loading studio model "models/props_mining/pipe_turretsroom01.mdl"!
+Error loading studio model "models/props_mining/pipe_turretsroom04.mdl"!
+Error loading studio model "models/props_mining/pipe_goopit02.mdl"!
+Error loading studio model "models/props_silo/handrail_singlespan_128.mdl"!
+Error loading studio model "models/props_silo/handrail_alley-stairs.mdl"!
+Placing detail props : 0...1...2...3...4...5...6..Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+.7...8...9...10
+Compacting texture/material tables...
+Reduced 8775 texinfos to 7048
+Reduced 243 texdatas to 209 (6258 bytes to 4722)
+Writing C:\Users\Valaskair\Desktop\BG\map\maps\decomp\rp_denon_d.bsp
+Wrote ZIP buffer, estimated size 15006, actual size 10638
+19 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 52

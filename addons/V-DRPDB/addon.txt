@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"DarkRP Hobo Donation Box"
+	"version"			"1.0"
+	"up_date"			""
+	"author_name"			"Valaskair"
+	"author_email"			"valaskair.vp@gmail.com"
+	"author_url"			"http://www.steamcommunity.com/id/Valaskair"
+	"info"				"Donation Box that only the owner can use."
+	"override"				"0"
+}

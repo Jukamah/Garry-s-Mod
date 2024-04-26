@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Berserk Gaming Server Content (Val)"
+	"version"			"1.0"
+	"up_date"			"6/7/2018"
+	"author_name"		"Valaskair"
+	"author_email"		"valaskair.vp@gmail.com"
+	"author_url"		"http://steamcommunity.com/id/am-zeus"
+	"info"				""
+	"override"			"0"
+}
